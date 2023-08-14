@@ -1,0 +1,43 @@
+{
+    "countryName": "英國",
+    "geography": {
+        "continent": "歐洲",
+        "area": {
+            "total": "242495 平方公里",
+            "land": "241930 平方公里",
+            "water": "565 平方公里"
+        }
+    },
+    "government": {
+        "type": "憲制君主制",
+        "monarch": {
+            "current": "伊莉莎白二世",
+            "reign": {
+                "start": "1952年",
+                "end": "在位中"
+            }
+        },
+        "primeMinister": {
+            "current": "鮑里斯·強森",
+            "term": {
+                "start": "2019年",
+                "end": "在任中"
+            }
+        }
+    },
+    "population": {
+        "total": "66000000",
+        "density": "275人/平方公里",
+        "largestCity": "倫敦"
+    },
+    "culture": {
+        "language": "英語",
+        "cuisine": {
+            "famousDishes": ["魚與薯條", "肉餡餅", "英式早餐"]
+        },
+        "sports": {
+            "popularSports": ["足球", "板球", "橄欖球"],
+            "famousClubs": ["曼聯", "利物浦", "切爾西"]
+        }
+    }
+}
